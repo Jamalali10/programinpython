@@ -1,4 +1,4 @@
-# programinpython
-# improving my pyhton skills. 
+# Program in Python
+# Improving my pyhton skills. 
 # 2/16/2025 is day one of the journey 
-# starting with basics syntax 
+// Starting with basics syntax 
